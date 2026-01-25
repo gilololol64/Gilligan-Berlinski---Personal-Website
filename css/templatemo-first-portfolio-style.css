@@ -103,7 +103,6 @@ p {
   font-weight: var(--font-weight-normal);
 }
 span {
-  width: 60px;
   display:inline-block;
 }
 
