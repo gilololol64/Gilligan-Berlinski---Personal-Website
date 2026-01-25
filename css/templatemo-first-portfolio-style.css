@@ -102,9 +102,6 @@ p {
   font-size: var(--p-font-size);
   font-weight: var(--font-weight-normal);
 }
-span {
-  display:inline-block;
-}
 
 ul li {
   color: var(--p-color);
